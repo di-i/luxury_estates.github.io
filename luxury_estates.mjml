@@ -1,0 +1,294 @@
+<mjml>
+  <mj-head>
+    <mj-title>Luxury Estates</mj-title>
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i"></mj-font>
+  </mj-head>
+  <mj-body background-color="#07214b">
+    <mj-wrapper background-color="#1f58b7" border-radius="5px">
+      <mj-section background-color="#1f58b7">
+        <mj-column padding="0px" width="50%">
+          <mj-image padding="0px" width="160px" src="https://i.ibb.co/W2b1d5S/logo.png" alt="logo"></mj-image>
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-table>
+            <tr>
+              <td style="padding: 0;">
+                <image src="https://i.ibb.co/gSntLC9/ico-web.jpg" alt="ico-web"></image>
+
+
+              <td style="padding: 0;color:#ffffff">view online</td>
+
+            </tr>
+        </mj-column>
+        </mj-table>
+      </mj-section>
+
+
+      <mj-section background-color="#2b79fa" padding-bottom="40px" border-radius="15px">
+        <mj-column padding="0px" width="30%">
+          <mj-image padding="0px" width="70px" src="https://i.ibb.co/xXhWTyt/person-image.jpg" alt="Your_personal_broker"></mj-image>
+        </mj-column>
+        <mj-column width="70%" padding="0px">
+          <mj-text align="left" font-size="20px" color="#ffffff">Andrew Simpson</mj-text>
+          <mj-text align="left" font-weight="100" color="#ffffff">YOUR PERSONAL REAL ESTATE BROKER</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px" background-color="#1f58b7">
+        <mj-column width="20%" padding-top="0">
+          <mj-image align="center" padding="0px" width="35px" src="https://i.ibb.co/THQCJN1/blue-arrow.jpg" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="70%">
+          <mj-text font-size="32px" line-height="36px" align="left" font-weight="500" color="#ffffff">Hey, Jane!</mj-text>
+          <mj-text line-height="22px" font-weight="200" color="#ffffff">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#082e6b">
+      <mj-column width="100%">
+        <mj-text align="left" font-size="20px" color="#77aaff">Here’s what I found for you:</mj-text>
+        <mj-image align="left" width="40px" src="https://i.ibb.co/qsNB814/separator.jpg" alt="separator"></mj-image>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text font-size="20px" color="#ffffff">4578 Marmora Road, Glasgow D04 89GR</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#082e6b">
+      <mj-column width="45%" padding-bottom="20px">
+        <mj-image padding="0px" src="https://i.ibb.co/tBHN7Yc/image1.jpg" alt=" Marmora Road, Glasgow"></mj-image>
+      </mj-column>
+      <mj-column width="55%">
+        <mj-table>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">2-bedroom apartment</td>
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">1 bed, 1 bath, 700sqft</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">Nicely Updated Kitchen</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff;">Newly Updated Bathroom</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">Hardwood Flooring</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">Large King Sized Bedroom</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+
+
+    </mj-section>
+    <mj-section background-color="#082e6b">
+      <mj-column width="100%">
+        <mj-text font-size="16px" font-weight="300" line-height="22px" color="#ffffff">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</mj-text>
+      </mj-column>
+      <mj-group>
+        <mj-column padding="0px" width="50%" background-color="#07214b" border-radius="10px">
+          <mj-text font-size="15px" font-weight="600" color="#ffffff">$2,000<span style="font-weight:100;padding-left:5px">/mo</span></mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="0px">
+          <mj-button padding="0px" text-decoration="none" background-color="#2b79fa" border-radius="10px">MORE DETAILS</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#082e6b">
+      <mj-column width="100%">
+        <mj-text font-size="20px" color="#ffffff">4578 Marmora Road, Glasgow D04 89GR</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#082e6b">
+      <mj-column width="45%" padding-bottom="20px">
+        <mj-image padding="0px" src="https://i.ibb.co/rc255VM/image2.jpg" alt=" Marmora Road, Glasgow"></mj-image>
+      </mj-column>
+
+      <mj-column width="55%">
+        <mj-table>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">2-bedroom apartment</td>
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">1 bed, 1 bath, 700sqft</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">Nicely Updated Kitchen</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff;">Newly Updated Bathroom</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">Hardwood Flooring</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">Large King Sized Bedroom</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#082e6b">
+      <mj-column width="100%">
+        <mj-text font-size="16px" font-weight="300" line-height="22px" color="#ffffff">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</mj-text>
+      </mj-column>
+      <mj-group>
+        <mj-column padding="0px" width="50%" background-color="#07214b" border-radius="10px">
+          <mj-text font-size="15px" font-weight="600" color="#ffffff">$2,000<span style="font-weight:100;padding-left:5px">/mo</span></mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="0px">
+          <mj-button padding="0px" text-decoration="none" background-color="#2b79fa" border-radius="10px">MORE DETAILS</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#082e6b">
+      <mj-column width="100%">
+        <mj-text font-size="20px" color="#ffffff">4578 Marmora Road, Glasgow D04 89GR</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#082e6b">
+      <mj-column width="45%" padding-bottom="20px">
+        <mj-image padding="0px" src="https://i.ibb.co/7rjJfJZ/image3.jpg" alt=" Marmora Road, Glasgow"></mj-image>
+      </mj-column>
+      <mj-column width="55%">
+        <mj-table>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">2-bedroom apartment</td>
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">1 bed, 1 bath, 700sqft</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">Nicely Updated Kitchen</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff;">Newly Updated Bathroom</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">Hardwood Flooring</td>
+
+          </tr>
+          <tr>
+            <td>
+              <image src="https://i.ibb.co/my8pByR/ico-bullet.jpg" alt="bullet" />
+            </td>
+            <td style="padding: 0 15px;color:#ffffff">Large King Sized Bedroom</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#082e6b">
+      <mj-column width="100%">
+        <mj-text font-size="16px" font-weight="300" line-height="22px" color="#ffffff">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</mj-text>
+      </mj-column>
+      <mj-group>
+        <mj-column padding="0px" width="50%" background-color="#07214b" border-radius="10px">
+          <mj-text font-size="15px" font-weight="600" color="#ffffff">$2,000<span style="font-weight:100;padding-left:5px">/mo</span></mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="0px">
+          <mj-button padding="0px" text-decoration="none" background-color="#2b79fa" border-radius="10px">MORE DETAILS</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#082e6b">
+      <mj-column width="100%" padding-top="15px" background-color="#2b79fa" border-radius="10px">
+        <mj-text font-size="18px" color="#ffffff">Do not hesitate to contact me in case you have any questions regarding these offers.</mj-text>
+        <mj-text font-size="14px" color="#ffffff">You can call me anytime on 123-4567-8910</mj-text>
+        <mj-text font-size="14px" padding-top="0" padding-bottom="20px" color="#ffffff">or email me at andew@luxuryestates.com</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#082e6b">
+      <mj-column width="40%">
+        <mj-image width="140px" src="https://i.ibb.co/W2b1d5S/logo.png" alt=""></mj-image>
+      </mj-column>
+      <mj-group>
+        <mj-column padding="0px">
+          <mj-image padding="0px" width="30px" src="https://i.ibb.co/vj1pqkS/ico-facebook.jpg" alt=""></mj-image>
+        </mj-column>
+        <mj-column padding="0px">
+          <mj-image padding="0px" width="30px" src="https://i.ibb.co/vBr4tdm/ico-twitter.jpg" alt=""></mj-image>
+        </mj-column>
+        <mj-column padding="0px">
+          <mj-image padding="0px" width="30px" src="https://i.ibb.co/nBm4Ftp/ico-instagram.jpg" alt=""></mj-image>
+        </mj-column>
+        <mj-column padding="0px">
+          <mj-image padding="0px" width="30px" src="https://i.ibb.co/k1tbHPw/ico-linkedin.jpg" alt=""></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#082e6b">
+      <mj-column width="100%">
+        <mj-text color="#889cbe">LuxuryEstates - Free HTML Email Template</mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text color="#889cbe" padding-right="0px">East Pixel Bld. 99, Creative City 9000, Republic of Design</mj-text>
+      </mj-column>
+      <mj-column width="40%" padding="0px">
+        <mj-button padding="0px" color="#889cbe" background-color="#082e6b">Unsubscribe</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
